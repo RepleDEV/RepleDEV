@@ -1,6 +1,6 @@
 ### Welcome!
 Hi! My "name" is RepleDEV, but you could call me as Rep.  
-I'm a 13 year old programmer who fell onto a rabbit hole of a Web Developer instead of Data Scientist or Game Developer.
+I'm a 13 year old "programmer" who fell onto a rabbit hole of a Web Developer instead of Data Scientist or Game Developer.
 
 ### Programming Experience
 | Language | Years |
