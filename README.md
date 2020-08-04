@@ -1,5 +1,5 @@
 ### Welcome!
-Hi! My "name" is RepleDEV, but you could call me as Rep.
+Hi! My "name" is RepleDEV, but you could call me as Rep.  
 I'm a 13 year old programmer who fell onto a rabbit hole of a Web Developer instead of Data Scientist or Game Developer.
 
 ### Programming Experience
@@ -31,12 +31,12 @@ I'm a 13 year old programmer who fell onto a rabbit hole of a Web Developer inst
 Ubuntu 20.04LTS with KDE
 
 ### Videogames
-1. Counter Strike Global Offensive
+1. Counter Strike: Global Offensive
 2. osu!
 3. Subnautica
 
 ### Social Media
-Insta: @rep_gonpachiro
-Twitter: @Gonpachiro9
-Discord: random_dev#0226
-Steam: Gonpachiro
+Insta: @rep_gonpachiro  
+Twitter: @Gonpachiro9  
+Discord: random_dev#0226  
+Steam: Gonpachiro  
