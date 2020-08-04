@@ -10,7 +10,7 @@ I'm a 13 year old "programmer" who fell onto a rabbit hole of a Web Developer in
 | CSS | 2 |
 | PHP | 1 |
 | SQL | 1 |
-| Python | 1 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="16"></img>  Python | 1 |
 | Java | 1 |
 
 ### Other skills
