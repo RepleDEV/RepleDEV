@@ -13,6 +13,6 @@
 
 ### Social Media
 Insta: @rep_gonpachiro  
-[Twitter](https://twitter.com/gonpachiro9)
-Discord: void(0)#0226 
+[Twitter](https://twitter.com/gonpachiro9)  
+Discord: void(0)#0226  
 [Steam](https://steamcommunity.com/id/76561198796243532)
